@@ -42,13 +42,14 @@ This project demonstrates practical skills in:
     # Example: python internet_fixer.py
     ```
 
-## Future Enhancements (Ideas for you to add!)
+## Future Enhancements
 
-* Add scripts for checking disk space.
-* Add scripts for clearing temporary files.
-* Add scripts for displaying top running processes.
-* Create a main menu script that lets you choose which troubleshooting tool to run.
+This project is continually evolving. I plan to expand this toolkit with additional scripts and guides to cover a wider range of IT support scenarios. My ongoing plans include:
 
----
+* **Disk Management:** Developing a script for checking disk space and performing routine cleanup of temporary files to improve system performance.
+* **Process Monitoring:** Creating a tool to identify and display top running processes, helping diagnose system slowdowns.
+* **Software Deployment & Inventory:** Building scripts for automated installation of common applications and verifying their presence.
+* **User Account Automation:** Expanding into more advanced user onboarding and offboarding procedures (e.g., account creation/deletion, password resets).
+* **Interactive Menu:** Designing a main script with an interactive menu to easily select and run specific troubleshooting tools.
 
-Developed by [Eloghene Tracy Ekpese]
+Developed by Eloghene Tracy Ekpese
