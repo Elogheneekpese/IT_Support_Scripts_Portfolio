@@ -57,8 +57,6 @@ dns_diagnostic.py: Diagnoses DNS issues and resolution problems
 User Management
 new_user_onboarder.py: Creates a folder and welcome file for new users
 
-(Note: This script's detailed functionality is assumed based on its name. If you have specific details, you can expand this description.)
-
 account_unlocker.ps1: Unlocks locked Active Directory accounts
 
 Software Management
@@ -72,8 +70,6 @@ Troubleshooting Guides
 Markdown documents for printable or shareable step-by-step user help:
 
 Printer_Troubleshooting_Guide.md: Fixes for common printer problems
-
-(Note: This guide's detailed content is a placeholder. If you've created content for it, you can expand this description.)
 
 VPN_Connection_Fixes.md: Deep dive into VPN errors and fixes
 
@@ -92,12 +88,12 @@ RSAT (Remote Server Administration Tools): For Active Directory-specific PowerSh
 Winget: For app_installer.py, ensure Windows Package Manager (Winget) is installed.
 
 Executing Scripts
-Clone the Repository (if on a new machine):
+Clone the Repository:
 
 git clone https://github.com/Elogheneekpese/IT_Support_Scripts_Portfolio
 cd IT_Support_Scripts_Portfolio
 
-Open your Terminal: Use PowerShell for .ps1 scripts and either PowerShell or Git Bash (or Command Prompt) for .py scripts. Ensure it's run As Administrator for scripts requiring elevated privileges.
+Open the Terminal: Use PowerShell for .ps1 scripts and either PowerShell or Git Bash for .py scripts. Ensure it's run As Administrator for scripts requiring elevated privileges.
 
 Navigate to the Script's Directory:
 
@@ -112,7 +108,7 @@ Run the Script:
 For Python Scripts (.py):
 
 python <script_name>.py
-# Example: python system_info_collector.py
+# Example: python new_user_onboarder.py
 
 For PowerShell Scripts (.ps1):
 
