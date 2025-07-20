@@ -2,7 +2,7 @@ IT Support Scripts Portfolio
 Automated Tools for Helpdesk and Junior SysAdmins
 
 Overview
-This portfolio is a practical collection of Python and PowerShell tools designed to automate routine IT support tasks. It includes system diagnostics, network resets, user management, app deployment, and Markdown guides — ideal for showcasing real-world support experience.
+This portfolio is a practical collection of Python and PowerShell tools designed to automate routine IT support tasks. It includes system diagnostics, network resets, user management, app deployment, and Markdown guides: ideal for showcasing real-world support experience.
 
 Skills Demonstrated
 Python scripting for automation and troubleshooting
@@ -41,41 +41,41 @@ IT_Support_Scripts_Portfolio/
 
 Script Highlights
 Core Utilities
-system_info_collector.py — Gathers CPU, RAM, disk, and OS info
+system_info_collector.py: Gathers CPU, RAM, disk, and OS info
 
-temp_file_cleaner.py — Cleans temp folders to free up space
+temp_file_cleaner.py: Cleans temp folders to free up space
 
-service_checker.py — Checks status of important Windows services
+service_checker.py: Checks status of important Windows services
 
 Network Tools
-internet_fixer.py — Tests and fixes internet connection
+internet_fixer.py: Tests and fixes internet connection
 
-network_reset_tool.py — Resets IP, DNS, and adapter settings
+network_reset_tool.py: Resets IP, DNS, and adapter settings
 
-dns_diagnostic.py — Diagnoses DNS issues and resolution problems
+dns_diagnostic.py: Diagnoses DNS issues and resolution problems
 
 User Management
-new_user_onboarder.py — Creates a folder and welcome file for new users
+new_user_onboarder.py: Creates a folder and welcome file for new users
 
 (Note: This script's detailed functionality is assumed based on its name. If you have specific details, you can expand this description.)
 
-account_unlocker.ps1 — Unlocks locked Active Directory accounts
+account_unlocker.ps1: Unlocks locked Active Directory accounts
 
 Software Management
-app_checker.py — Checks if common apps are installed
+app_checker.py: Checks if common apps are installed
 
-program_uninstaller.py — Lists installed programs and initiates uninstallation (Windows)
+program_uninstaller.py: Lists installed programs and initiates uninstallation (Windows)
 
-app_installer.py — Installs apps via Winget silently
+app_installer.py: Installs apps via Winget silently
 
 Troubleshooting Guides
 Markdown documents for printable or shareable step-by-step user help:
 
-Printer_Troubleshooting_Guide.md — Fixes for common printer problems
+Printer_Troubleshooting_Guide.md: Fixes for common printer problems
 
 (Note: This guide's detailed content is a placeholder. If you've created content for it, you can expand this description.)
 
-VPN_Connection_Fixes.md — Deep dive into VPN errors and fixes
+VPN_Connection_Fixes.md: Deep dive into VPN errors and fixes
 
 How to Run
 General Prerequisites
