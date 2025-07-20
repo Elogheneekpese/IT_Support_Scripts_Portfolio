@@ -1,15 +1,15 @@
 import shutil
 
 def check_app(app_name, command):
-    print(f"\n🔍 Checking for {app_name}...")
+    print(f"\nChecking for {app_name}...")
 
     if shutil.which(command):
-        print(f"✅ {app_name} is installed and available in PATH.")
+        print(f"{app_name} is installed and available in PATH.")
     else:
-        print(f"❌ {app_name} is NOT installed or not in PATH.")
+        print(f"{app_name} is NOT installed or not in PATH.")
 
 def main():
-    print("📦 Installed Applications Checker\n")
+    print("Installed Applications Checker\n")
 
     # Define the apps to check: (Name, command to look for)
     apps_to_check = [
@@ -24,7 +24,7 @@ def main():
     for app_name, command in apps_to_check:
         check_app(app_name, command)
 
-    print("\n✅ Software check complete.")
+    print("\nSoftware check complete.")
 
 if __name__ == "__main__":
     main()

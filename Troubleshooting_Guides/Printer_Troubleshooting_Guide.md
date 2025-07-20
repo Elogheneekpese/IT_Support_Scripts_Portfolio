@@ -1,4 +1,4 @@
-# 🖨️ Printer Troubleshooting Guide
+# Printer Troubleshooting Guide
 
 **What Is This?**  
 This guide provides step-by-step instructions to diagnose and fix common printer issues faced by users in a workplace or home office setting. It’s designed for both end-users and IT Support staff to quickly restore printing functionality without waiting for escalation.
@@ -9,7 +9,7 @@ This guide provides step-by-step instructions to diagnose and fix common printer
 
 This is a common issue where the printer shows as "offline" or doesn't respond when you try to print.
 
-### ✅ Fix Steps:
+### Fix Steps:
 - **Check power:** Ensure the printer is plugged in and powered on.
 - **Check display:** Look for any error codes or paper jams on the printer screen.
 - **USB or network cable:** Reconnect cables or verify the printer is connected to Wi-Fi.
@@ -22,7 +22,7 @@ This is a common issue where the printer shows as "offline" or doesn't respond w
 
 Sometimes documents get "stuck" in the print queue, especially after an error.
 
-### ✅ Fix Steps:
+### Fix Steps:
 - Open **Control Panel > Devices and Printers**
 - Right-click on the printer > **See what’s printing**
 - Click **Printer** menu > Uncheck **Use Printer Offline**
@@ -41,7 +41,7 @@ Sometimes documents get "stuck" in the print queue, especially after an error.
 
 For Wi-Fi printers that are not detected or dropping connection:
 
-### ✅ Fix Steps:
+### Fix Steps:
 - **Verify printer is connected to the correct Wi-Fi network**
 - Print a **network status page** from the printer's menu to confirm IP address
 - On the PC, **remove the printer** from settings, then **re-add** it
@@ -54,7 +54,7 @@ For Wi-Fi printers that are not detected or dropping connection:
 
 Windows sometimes defaults to the wrong printer (like "OneNote" or "PDF").
 
-### ✅ Fix Steps:
+### Fix Steps:
 - Go to **Settings > Devices > Printers & Scanners**
 - Click your preferred printer > **Set as default**
 - Uncheck **"Let Windows manage my default printer"** (if enabled)
@@ -65,7 +65,7 @@ Windows sometimes defaults to the wrong printer (like "OneNote" or "PDF").
 
 Outdated or incorrect drivers often cause printing failures or missing options.
 
-### ✅ Fix Steps:
+### Fix Steps:
 - Visit the manufacturer’s official website (e.g., HP, Canon, Epson)
 - Download the **latest driver** for your model and Windows version
 - Uninstall old drivers if necessary:
@@ -78,7 +78,7 @@ Outdated or incorrect drivers often cause printing failures or missing options.
 
 If printing works from Notepad but fails from Office apps:
 
-### ✅ Fix Steps:
+### Fix Steps:
 - Try printing another document from the same app
 - Repair the app (e.g., Microsoft Office) via:
   - **Settings > Apps > Installed Apps > Modify > Repair**
@@ -90,7 +90,7 @@ If printing works from Notepad but fails from Office apps:
 
 Hardware-level issues can also stop print jobs or create errors.
 
-### ✅ Fix Steps:
+### Fix Steps:
 - Open printer panel and check for:
   - Jammed paper
   - Low ink or toner warning
@@ -108,7 +108,7 @@ Hardware-level issues can also stop print jobs or create errors.
 
 ---
 
-## ✅ Printer Troubleshooting Checklist
+## Printer Troubleshooting Checklist
 
 | Step                                      | Tried? |
 |-------------------------------------------|--------|

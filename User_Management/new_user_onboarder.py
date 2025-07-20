@@ -66,23 +66,23 @@ def new_user_onboarder():
     username = input("Enter the new user's username: ").strip()
 
     if not username:
-        print("❌ Username cannot be empty.")
+        print("Username cannot be empty.")
         return
 
-    print(f"\n📁 Creating folder for {username}...")
+    print(f"\nCreating folder for {username}...")
     folder_path = create_user_folder(username)
 
-    print("🔐 Generating a temporary password...")
+    print("Generating a temporary password...")
     password = generate_password()
 
-    print("📄 Writing welcome file and IT checklist...")
+    print("Writing welcome file and IT checklist...")
     write_welcome_file(folder_path, username, password)
     write_checklist_file(folder_path)
 
-    print("📝 Logging user to CSV...")
+    print("Logging user to CSV...")
     log_to_csv(username, password)
 
-    print(f"\n✅ Onboarding complete for '{username}'!")
+    print(f"\nOnboarding complete for '{username}'!")
     print(f"User folder created at: {folder_path}")
     print("Welcome file, checklist, and user log have been created.")
 

@@ -1,4 +1,4 @@
-# 🌐 VPN Connection Fixes Guide
+# VPN Connection Fixes Guide
 
 **What Is This?**  
 This is a comprehensive Markdown guide designed to help users and IT support staff diagnose and resolve common issues encountered when trying to establish or maintain a Virtual Private Network (VPN) connection. VPNs are crucial for secure remote access, and problems can range from simple configuration errors to more complex network or software conflicts. This guide provides step-by-step troubleshooting for frequent scenarios, ensuring users can regain secure connectivity quickly.
@@ -105,7 +105,7 @@ If all else fails:
 
 ---
 
-## ✅ VPN Troubleshooting Checklist
+## VPN Troubleshooting Checklist
 
 | Step                                    | Tried? |
 |-----------------------------------------|--------|
