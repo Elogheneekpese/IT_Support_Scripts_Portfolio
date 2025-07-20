@@ -1,0 +1,6 @@
+ Onboarding Checklist:
+ - [ ] Add to domain
+ - [ ] Configure email account
+ - [ ] Install required software
+ - [ ] Grant folder permissions
+ - [ ] Email welcome message
